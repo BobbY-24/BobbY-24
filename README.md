@@ -8,7 +8,7 @@ I build LLM tooling and evaluations: agent tools that keep source evidence, cont
 
 ## Projects
 
-### [Quarry](https://github.com/BobbY-24/quarry): tool design for research agents
+### [Quarry](https://github.com/BobbY-24/quarry): tool design for web agents customiztion
 An MCP server and CLI that Claude Code or Codex uses to turn a research question into a dataset you can trace back to its sources. It runs bounded collection recipes, keeps evidence spans, and supports resumable jobs, with spend gated behind explicit approval.
 `Python` `MCP` `agent tooling` `information extraction` · 373 tests
 
