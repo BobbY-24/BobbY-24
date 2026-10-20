@@ -1,6 +1,6 @@
 # Bob G. Yan
 
-Undergraduate at **Georgia Tech** (B.S. Industrial Engineering & B.S. Mathematics and Computing, expected Dec 2028) and research assistant in the **NLP/X Lab** with Prof. Wei Xu. **PURA** research award, Summer 2026.
+Undergraduate at **Georgia Tech** (B.S. Mathematics and Computing, expected Dec 2028) and research assistant in the **NLP/X Lab** with Prof. Wei Xu. **PURA** research award, Summer 2026.
 
 I build LLM tooling and evaluations: agent tools that keep source evidence, controlled ablation studies, and interpretability experiments on small open models.
 
