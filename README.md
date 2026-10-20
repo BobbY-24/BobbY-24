@@ -17,7 +17,7 @@ Adds one token to a frozen Qwen2.5-0.5B and trains only its embedding (**896 tra
 `PyTorch` `Transformers` `DPO` `mechanistic interpretability` · companion: [LoRA fine-tuning of Qwen2.5](https://github.com/BobbY-24/qwen-lora-finetuning) (1.08M adapter params, validation CE 5.53 → 2.03)
 
 ### [David](https://github.com/BobbY-24/David): A due diligence agentic associate for one-person companies
-Built for small businesses and one-person companies, a kind of firm that is becoming more common. A Flutter desk for grounded due diligence and physical-anomaly work, with a FastAPI, PostgreSQL, and Celery/Redis job plane.
+A Flutter desk for grounded due diligence and physical-anomaly work, with a FastAPI, PostgreSQL, and Celery/Redis job plane.
 `Dart` `Flutter` `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker`
 
 ### [LLM evaluation: API ablations and multimodal loaders](https://github.com/BobbY-24/llm-eval-ablation-multimodal)
