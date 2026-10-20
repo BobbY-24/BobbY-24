@@ -16,8 +16,8 @@ An MCP server and CLI that Claude Code or Codex uses to turn a research question
 Adds one token to a frozen Qwen2.5-0.5B and trains only its embedding (**896 trainable parameters vs. 494M frozen**) with a DPO-style objective. The question is when the learned vector stops acting like a control signal and starts acting like a word. Colab experiments and a LoRA comparison are next.
 `PyTorch` `Transformers` `DPO` `mechanistic interpretability` · companion: [LoRA fine-tuning of Qwen2.5](https://github.com/BobbY-24/qwen-lora-finetuning) (1.08M adapter params, validation CE 5.53 → 2.03)
 
-### [Fieldline](https://github.com/BobbY-24/Fieldline): due-diligence agent
-An agentic due-diligence and physical-anomaly desk. Retrieval stays on sealed evidence, and a FastAPI, PostgreSQL, and Celery/Redis service runs the jobs.
+### [David](https://github.com/BobbY-24/David): due diligence for small businesses
+Built for small businesses and one-person companies, a kind of firm that is becoming more common. A Flutter desk for grounded due diligence and physical-anomaly work, with a FastAPI, PostgreSQL, and Celery/Redis job plane.
 `Dart` `Flutter` `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker`
 
 ### [Multimodal LLM evaluation](https://github.com/BobbY-24/multimodal-game-eval): API ablations and a CV dataloader
